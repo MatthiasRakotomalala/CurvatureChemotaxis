@@ -1,6 +1,6 @@
 # Curvature in Chemotaxis: A Model for Ant Trail Pattern Formation
 
-This Git repository contains the Python source code for the numerical schemes used in the paper: https://arxiv.org/abs/2408.13363, where the author introduces a continuous ant trail pattern formation model. For a detailed presentation of the model and numerical schemes, please refer to the linked preprint.
+This Git repository contains the Python source code for the numerical schemes used in the paper: https://arxiv.org/abs/2408.13363, where the authors introduced a continuous ant trail pattern formation model. For a detailed presentation of the model and numerical schemes, please refer to the linked preprint.
 
 The repository includes a Jupyter notebook implementing the Finite Difference scheme for a simplified system. Additionally, a Python app is provided to run the Monte Carlo particle scheme.
 
