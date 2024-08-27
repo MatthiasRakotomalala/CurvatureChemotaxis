@@ -18,4 +18,5 @@ python AntSim_parser.py --help
 
 ### Examples of Monte Carlo numerical results
 ![MonteCarloParticleFourierSimMltpTimes014740pp](https://github.com/user-attachments/assets/035b0b4f-c61e-4b31-a5cb-a975269da655)
+![MonteCarloParticleFourierSimMltpTimes233841](https://github.com/user-attachments/assets/34336306-de1b-4896-bb1b-a9201f802df3)
 ![MonteCarloParticleFourierSimMltpTimes](https://github.com/user-attachments/assets/2cc49388-40c4-45e1-bea8-ca4fcace08c8)
